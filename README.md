@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 [Linkedin](https://www.linkedin.com/in/duc-dang-hoai-b15647177/).
 
+[Leetcode](https://leetcode.com/u/daikaduc/).
+
