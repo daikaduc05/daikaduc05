@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Madison Technolgies.
+
 🌱 I’m currently learning Software Engineer in Da Nang University of Technologies.
-📫 How to reach me :.
+
+📫 How to reach me :
+
 [Codeforces](https://codeforces.com/profile/bkdn24.dakduk12).
+
 [Linkedin](https://www.linkedin.com/in/duc-dang-hoai-b15647177/).
 
