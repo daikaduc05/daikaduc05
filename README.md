@@ -20,9 +20,15 @@ Here are some ideas to get you started:
 
 📫 How to reach me :
 
-[Codeforces](https://codeforces.com/profile/bkdn24.dakduk12).
+⚡[Codeforces1](https://codeforces.com/profile/bkdn24.dakduk12).
 
-[Linkedin](https://www.linkedin.com/in/duc-dang-hoai-b15647177/).
+⚡[Codeforces2](https://codeforces.com/profile/daikaduc).
 
-[Leetcode](https://leetcode.com/u/daikaduc/).
+⚡[Linkedin](https://www.linkedin.com/in/duc-dang-hoai-b15647177/).
+
+⚡[Leetcode](https://leetcode.com/u/daikaduc/).
+
+🤔 In the future, i am learning to be DevOps Engineer,System Designer
+
+
 
