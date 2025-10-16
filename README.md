@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Đức Đặng Hoài (Duc Dang Hoai)
 
-💻 **Backend Engineer | DevOps Enthusiast | System Designer in Progress**
+💻 **Backend Engineer | DevOps Enthusiast | Network & System Designer**
 
 ---
 
@@ -15,17 +15,28 @@
 
 ### ⚙️ Tech Stack
 
-#### 🧩 Backend
-`Node.js` · `Python` · `Go` · `NestJS` · `Express` · `FastAPI`
+#### 🧩 Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,python,go,nestjs,express,fastapi" />
 
-#### 🗄️ Database
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Prisma ORM`
+#### 🗄️ Database  
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />  
+`Prisma ORM` · `TypeORM`
 
-#### ☁️ DevOps & Cloud
-`Docker` · `Kubernetes` · `AWS` · `GCP` · `Azure` · `CI/CD` · `Nginx` · `Cloudflare` · `GitHub Actions`
+#### ☁️ DevOps & Cloud  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,nginx,cloudflare,githubactions" />  
+`CI/CD` · `Infrastructure as Code (IaC)` · `Monitoring & Logging`
 
-#### 🧠 Others
-`System Design` · `Networking` · `Linux` · `Shell / PowerShell` · `Infrastructure as Code (IaC)` · `Monitoring & Logging`
+#### 🧠 Network & System  
+🌐 Deep understanding of:
+- TCP/IP, UDP, HTTP/HTTPS, DNS, NAT, VPN, Proxy  
+- OSI model layers and routing fundamentals  
+- Network security, tunneling (ZeroTier, Cloudflare Tunnel, WireGuard)  
+- Load balancing & reverse proxy (Nginx, HAProxy)  
+- Linux server administration and system hardening
+
+#### 🧩 Other Tools  
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,github,vscode" />  
+`System Design` · `Automation` · `CI/CD pipelines` · `Shell scripting`
 
 ---
 
@@ -33,7 +44,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daikaduc05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daikaduc05&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com?user=daikaduc05&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
@@ -56,6 +67,7 @@
 - 🧩 Building scalable backend services using **microservice architecture**  
 - ⚙️ Automating deployment pipelines with **CI/CD & Infrastructure as Code**  
 - ☁️ Optimizing systems across **multi-cloud environments**  
+- 🌐 Strengthening **network engineering knowledge** for distributed systems  
 - 🧭 Improving at **System Design** and **High Availability Architecture**
 
 ---
@@ -64,7 +76,7 @@
 
 - 🧩 I enjoy solving algorithmic problems in my free time  
 - 🧠 Always exploring new DevOps tools and backend frameworks  
-- ☕ Powered by caffeine & curiosity
+- ☕ Powered by caffeine & curiosity  
 
 ---
 
