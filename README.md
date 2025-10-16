@@ -23,7 +23,7 @@
 `Prisma ORM` · `TypeORM`
 
 #### ☁️ DevOps & Cloud  
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,nginx,cloudflare,githubactions" />  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,nginx,cloudflare,githubactions" />  
 `CI/CD` · `Infrastructure as Code (IaC)` · `Monitoring & Logging`
 
 #### 🧠 Network & System  
@@ -55,7 +55,8 @@
 ### 📫 Connect with Me
 
 - ⚡ [Codeforces #1](https://codeforces.com/profile/bkdn24.dakduk12)  
-- ⚡ [Codeforces #2](https://codeforces.com/profile/daikaduc)  
+- ⚡ [Codeforces #2](https://codeforces.com/profile/daikaduc)
+- ⚡ [Codeforces #3](https://codeforces.com/profile/bkdn25.azu)
 - ⚡ [LeetCode](https://leetcode.com/u/daikaduc/)  
 - ⚡ [LinkedIn](https://www.linkedin.com/in/duc-dang-hoai-b15647177/)
 
