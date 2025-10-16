@@ -1,34 +1,72 @@
-### Hi there 👋
+# 👋 Hi there, I'm Đức Đặng Hoài (Duc Dang Hoai)
 
-<!--
-**daikaduc05/daikaduc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Engineer | DevOps Enthusiast | System Designer in Progress**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🔭 I’m currently working on Madison Technolgies.
+### 🧠 About Me
 
-🌱 I’m currently learning Software Engineer in Da Nang University of Technologies.
+🚀 Passionate about designing **scalable backend systems** and building **automated DevOps pipelines**.  
+🌍 Currently working at **Madison Technologies**, focusing on **cloud infrastructure**, **microservices**, and **system reliability**.  
+🎓 Studying **Software Engineering** at **Da Nang University of Technology (DUT)**.  
+💬 I love exploring system architecture, distributed networking, and developer tooling.
 
-📫 How to reach me :
+---
 
-⚡[Codeforces1](https://codeforces.com/profile/bkdn24.dakduk12).
+### ⚙️ Tech Stack
 
-⚡[Codeforces2](https://codeforces.com/profile/daikaduc).
+#### 🧩 Backend
+`Node.js` · `Python` · `Go` · `NestJS` · `Express` · `FastAPI`
 
-⚡[Linkedin](https://www.linkedin.com/in/duc-dang-hoai-b15647177/).
+#### 🗄️ Database
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Prisma ORM`
 
-⚡[Leetcode](https://leetcode.com/u/daikaduc/).
+#### ☁️ DevOps & Cloud
+`Docker` · `Kubernetes` · `AWS` · `GCP` · `Azure` · `CI/CD` · `Nginx` · `Cloudflare` · `GitHub Actions`
 
-🤔 In the future, i am learning to be DevOps Engineer,System Designer
+#### 🧠 Others
+`System Design` · `Networking` · `Linux` · `Shell / PowerShell` · `Infrastructure as Code (IaC)` · `Monitoring & Logging`
 
+---
 
+### 📊 GitHub Stats & Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daikaduc05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daikaduc05&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daikaduc05&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- ⚡ [Codeforces #1](https://codeforces.com/profile/bkdn24.dakduk12)  
+- ⚡ [Codeforces #2](https://codeforces.com/profile/daikaduc)  
+- ⚡ [LeetCode](https://leetcode.com/u/daikaduc/)  
+- ⚡ [LinkedIn](https://www.linkedin.com/in/duc-dang-hoai-b15647177/)
+
+---
+
+### 🌱 Current Focus
+
+- 🧩 Building scalable backend services using **microservice architecture**  
+- ⚙️ Automating deployment pipelines with **CI/CD & Infrastructure as Code**  
+- ☁️ Optimizing systems across **multi-cloud environments**  
+- 🧭 Improving at **System Design** and **High Availability Architecture**
+
+---
+
+### ⚡ Fun Facts
+
+- 🧩 I enjoy solving algorithmic problems in my free time  
+- 🧠 Always exploring new DevOps tools and backend frameworks  
+- ☕ Powered by caffeine & curiosity
+
+---
+
+> “Systems should be simple, scalable, and self-healing.”  
+> — My DevOps Philosophy ☁️
