@@ -54,11 +54,23 @@
 
 ### 📫 Connect with Me
 
-- ⚡ [Codeforces #1](https://codeforces.com/profile/bkdn24.dakduk12)  
-- ⚡ [Codeforces #2](https://codeforces.com/profile/daikaduc)
-- ⚡ [Codeforces #3](https://codeforces.com/profile/bkdn25.azu)
-- ⚡ [LeetCode](https://leetcode.com/u/daikaduc/)  
-- ⚡ [LinkedIn](https://www.linkedin.com/in/duc-dang-hoai-b15647177/)
+<p align="center">
+  <a href="https://codeforces.com/profile/bkdn24.dakduk12">
+    <img src="https://img.shields.io/badge/Codeforces%20%231-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces #1" />
+  </a>
+  <a href="https://codeforces.com/profile/daikaduc">
+    <img src="https://img.shields.io/badge/Codeforces%20%232-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces #2" />
+  </a>
+  <a href="https://codeforces.com/profile/bkdn25.azu">
+    <img src="https://img.shields.io/badge/Codeforces%20%233-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces #3" />
+  </a>
+  <a href="https://leetcode.com/u/daikaduc/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.linkedin.com/in/duc-dang-hoai-b15647177/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
